@@ -144,7 +144,7 @@ body {
 .about-me-heading {
   padding: 7% 0;
   text-align: center;
-  font-size: 4rem;
+  font-size: 6rem;
   font-weight: bold;
   font-family: 'Dancing Script', cursive;
 }
@@ -157,7 +157,7 @@ body {
 
 .workshop-img {
   border-radius: 8px;
-  
+
 
 }
 
@@ -173,7 +173,7 @@ body {
 
 .arts-heading {
   text-align: center;
-  font-size: 4rem;
+  font-size: 6rem;
   font-weight: bold;
   font-family: 'Dancing Script', cursive;
 }
