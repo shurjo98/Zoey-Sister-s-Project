@@ -150,13 +150,15 @@ body {
 }
 
 .zoey-img {
-  height: 500px;
   width: 500px;
+  height: 500px;
   border-radius: 8px;
 }
 
 .workshop-img {
   border-radius: 8px;
+  width: 500px;
+  height: 500px;
 
 
 }
