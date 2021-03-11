@@ -9,6 +9,7 @@ body {
 }
 
 
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -57,9 +58,16 @@ body {
 /* Featurettes
 ------------------------- */
 
-.featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+
+hr {
+  border:none;
+ border-top:10px dotted #b34180;
+ background-color:#fff;
+ height:1px;
+ width:6%;
+ margin: 10rem auto;
 }
+
 
 /* Thin out the marketing headings */
 .featurette-heading {
@@ -123,4 +131,49 @@ body {
   font-weight: lighter;
   padding: 0px 18px;
 
+}
+
+
+
+/* About Me */
+
+#AboutMe {
+  padding: 0 15%;
+}
+
+.about-me-heading {
+  padding: 7% 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+}
+
+.zoey-img {
+  height: 500px;
+  width: 500px;
+  border-radius: 8px;
+}
+
+.workshop-img {
+  border-radius: 8px;
+  
+
+}
+
+
+
+/* Arts  */
+
+#arts {
+    background-color: #fbaccc;
+
+}
+
+
+.arts-heading {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
 }
