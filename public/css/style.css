@@ -8,6 +8,12 @@ body {
   color: #5a5a5a;
 }
 
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  margin: 4rem 0;
+  font-family: cursive;
+}
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -167,8 +173,8 @@ body {
 
 /* Arts  */
 
-#arts {
-    background-color: #fbaccc;
+#Arts {
+
 
 }
 
@@ -178,4 +184,9 @@ body {
   font-size: 6rem;
   font-weight: bold;
   font-family: 'Dancing Script', cursive;
+}
+
+
+.card {
+  margin-bottom: 50px;
 }
