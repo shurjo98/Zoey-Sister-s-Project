@@ -2484,7 +2484,9 @@
 }
 
 .cid-uL54jfGezq .content-wrapper img {
-    height: 900px;
+    width: 100%;
+    height: auto; /* Let it scale naturally */
+    max-height: 900px; /* Optional: limit height on desktop */
     object-fit: cover;
     border-radius: 2rem !important;
 }
